@@ -7,3 +7,4 @@ The licences are included in the respective dataset folders as well.
 2. [Tuebingen-pair-wise-dataset](https://webdav.tuebingen.mpg.de/cause-effect/): Last downloaded on 2026-03-02.
 
 3.[Twins-datasets](http://www.nber.org/data/linked-birth-infant-death-data-vital-statistics-data.html)
+4. [angrist-krueger-qob](angrist-krueger-qob/): Angrist-Krueger Quarter of Birth (1980 Census). CC0 1.0 Universal.
